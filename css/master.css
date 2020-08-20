@@ -1,1 +1,4 @@
 
+.key > h1 {
+  pointer-events: none;
+}
